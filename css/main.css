@@ -1,0 +1,14 @@
+body {
+	background-color: #CCC;
+}
+#page {
+	background-color: #FFF;
+}
+.btn-primary{
+	background-color: #930
+	border:solid 1 px #ff0000;
+}
+.btn-primary:hover{
+	background-color:#ff0000;
+	border:solid 1 px #FF0000;
+}
